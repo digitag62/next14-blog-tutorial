@@ -32,9 +32,7 @@ const About = () => {
           </p>
         </div>
         <p className="text-muted-foreground text-lg py-4">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore
-          nobis explicabo unde nostrum asperiores animi incidunt a quibusdam
-          temporibus aut?
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus praesentium in dolorum deleniti facilis laborum repudiandae unde nesciunt iure a consequatur, quam et ullam mollitia. Corrupti debitis sed sit quasi odit, id, non, necessitatibus fugiat saepe laudantium culpa neque facere?
         </p>
       </div>
     </div>
